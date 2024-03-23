@@ -1,2 +1,2 @@
 # MIPTJavaTerm5
-Реализация игры в шашки и работа с базами данных
+The implementation involves developing a Chess game in Java and implementing tasks with H2 database in Java.
